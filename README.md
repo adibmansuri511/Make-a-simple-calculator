@@ -1,2 +1,2 @@
-# make-a-simple-calculator
- Practice Example
+# Make-a-simple-calculator
+JavaScrip Practice Example.
